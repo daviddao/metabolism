@@ -10,7 +10,7 @@
 Vagrant.configure(2) do |config|
 
   # Option to install Analyst instead of CPA
-  analyst = true
+  analyst = false
 
   # The most common configuration options are documented and commented below.
   # For a complete reference, please see the online documentation at
